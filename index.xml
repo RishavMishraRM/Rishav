@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hey there!! This is Rishav Mishra  on Rishav Kumar Mishra</title>
+    <link>https://RishavMishraRM.github.io/Rishav/</link>
+    <description>Recent content in Hey there!! This is Rishav Mishra  on Rishav Kumar Mishra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2021 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://RishavMishraRM.github.io/Rishav/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Project Gold</title>
+      <link>https://RishavMishraRM.github.io/Rishav/post/project-1/</link>
+      <pubDate>Mon, 25 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://RishavMishraRM.github.io/Rishav/post/project-1/</guid>
+      <description>Created a webscrapping program which get data of gold as per estimated Dates. Scraped over 10 years of Gold Data. As included in Project Feature Engineering is being performed over the scrapped data. Build model over the Data using normal Linear Regression. Shown Statistical view of the Data Scrapped as for the customer or for the stakeholders.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: IPL Analysis</title>
+      <link>https://RishavMishraRM.github.io/Rishav/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://RishavMishraRM.github.io/Rishav/post/project-2/</guid>
+      <description>This is analysis of IPL matches held in India till year 2019. This dataset contains information about the analysis and too much deatils of the matches, winners and many more.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://RishavMishraRM.github.io/Rishav/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://RishavMishraRM.github.io/Rishav/contact/</guid>
+      <description>   Platform URL     Mail : &amp;ldquo;rishav.mishra.rkm@gmail.com&amp;rdquo;   Instagram : &amp;ldquo;https://www.instagram.com/the_rishav_mishra/&amp;quot;   Website : &amp;quot;&amp;rdquo;   LinkedIn : &amp;ldquo;https://www.linkedin.com/in/rishavkumarmishra&amp;quot;   GitHub : &amp;ldquo;https://github.com/RishavMishraRM&amp;quot;    </description>
+    </item>
+    
+  </channel>
+</rss>
